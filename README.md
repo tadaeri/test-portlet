@@ -2,7 +2,7 @@ test-portlet
 ====
 
 Aipoでのテストアプリの作成用リポジトリです。
-aaa
+ID:tadaeri
 
 関連情報
 --------
